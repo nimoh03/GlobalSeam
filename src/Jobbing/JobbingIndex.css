@@ -1,0 +1,38 @@
+.ant-table-tbody{
+    text-align: center !important;
+  }
+  .ant-table-title{
+      background-color: #436CFF;
+      color: #FCFCFC;
+      font-size: 16px !important;
+      font-weight: 800 !important;
+      padding: 0;
+      text-align: left !important;
+  }
+  
+.ant-table-thead .ant-table-cell {
+    background-color: #B2BDE8 !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    border-radius: 0 !important;
+    padding: 10px !important;
+  }
+  
+  .ant-table-wrapper .ant-table-tbody > tr > td {
+    padding: 5px;
+    white-space: nowrap !important
+  }
+  .ant-table-wrapper .ant-table-title {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    font-size: 16px !important ;
+  }
+
+  .jobHeader{
+    font-weight: 800;
+    text-align: left;
+    background-color: #436CFF;
+    color: #FCFCFC;
+
+  }
